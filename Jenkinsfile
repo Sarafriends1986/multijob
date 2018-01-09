@@ -1,7 +1,7 @@
 node {
    
    stage('App Stack Provision') {
-   echo " its master branch"
+   echo " its dev branch"
    }
 
 }
